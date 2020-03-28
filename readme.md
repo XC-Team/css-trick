@@ -1,7 +1,7 @@
 # css注意的细节
 
 ## position
->position: absolute;要在祖先元素中设置position不为absolute才能生效。
+>position: absolute;要在祖先元素中设置position不为static才能生效。
 
 ## css中可继承和不可继承的属性
 
@@ -87,4 +87,4 @@ unicode-bidi：设置文本的方向
 
 9、声音样式属性：pause-before、pause-after、pause、cue-before、cue-after、cue、play-during
 
- 
+##  
