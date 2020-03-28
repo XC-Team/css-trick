@@ -1,7 +1,7 @@
 # css注意的细节
 
 ## position
->position: absolute;要在祖先元素中设置position不为static才能生效。
+>position: absolute;要在祖先元素中设置position不为static才能生效相对祖先元素的位置, 不设置则是相对于body的位置。
 
 ## css中可继承和不可继承的属性
 
